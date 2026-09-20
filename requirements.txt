@@ -1,0 +1,9 @@
+torch
+pyyaml
+tensorboard
+tensorboardX
+scipy
+matplotlib
+opencv-python-headless
+ninja
+gdown
